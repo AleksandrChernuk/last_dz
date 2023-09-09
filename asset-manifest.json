@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AleksandrChernuk/last_dz.git/static/css/main.a185bfa7.css",
+    "main.js": "/AleksandrChernuk/last_dz.git/static/js/main.26039c04.js",
+    "index.html": "/AleksandrChernuk/last_dz.git/index.html",
+    "main.a185bfa7.css.map": "/AleksandrChernuk/last_dz.git/static/css/main.a185bfa7.css.map",
+    "main.26039c04.js.map": "/AleksandrChernuk/last_dz.git/static/js/main.26039c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a185bfa7.css",
+    "static/js/main.26039c04.js"
+  ]
+}
